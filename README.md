@@ -19,7 +19,7 @@ The user can type the notes command with a flag and a parameter.
 * `PORT` - Port Number
 
 #### Documentation
-[jsdoc](https://dk-lab-00-deployment.herokuapp.com/docs/)
+[jsdoc](https://dk-lab-01-deployment.herokuapp.com/docs/)
 
 #### How to initialize/run your application
 
