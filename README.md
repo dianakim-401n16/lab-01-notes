@@ -9,7 +9,7 @@ The user can type the notes command with a flag and a parameter.
 
 ### Links and Resources
 
-- [submission PR](https://github.com/dianakim-401n16/lab-01-notes/pull/1)
+- [submission PR](https://github.com/dianakim-401n16/lab-01-notes/pull/2)
 - [ci/cd](https://github.com/dianakim-401n16/lab-01-deployment/actions)
 
 ### Setup
