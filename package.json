@@ -1,7 +1,7 @@
 {
   "name": "lab-01-notes",
   "version": "0.0.1",
-  "description": "## Notes A command line application using Node.js called notes which allows the user to specify a note (words) to be added to a database.",
+  "description": "A command line application using Node.js called notes which allows the user to specify a note (words) to be added to a database.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
