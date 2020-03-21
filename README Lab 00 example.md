@@ -1,16 +1,14 @@
-# Lab 01
+# Lab 00
 
-## Notes
-A command line application using Node.js called notes which allows the user to specify a note (words) to be added to a database.
-
-The user can type the notes command with a flag and a parameter. 
+## Deployment Workshop - Proof of Life Server
 
 ### Author: Diana Kim
 
 ### Links and Resources
 
-- [submission PR](https://github.com/dianakim-401n16/lab-01-notes/pull/1)
-- [ci/cd](https://github.com/dianakim-401n16/lab-01-deployment/actions)
+- [submission PR](https://github.com/dianakim-401n16/lab-00-deployment/pull/1)
+- [ci/cd](https://github.com/dianakim-401n16/lab-00-deployment/actions)
+- [front-end application](https://dk-lab-00-deployment.herokuapp.com/)
 
 ### Setup
 * `npm install`
